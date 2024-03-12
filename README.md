@@ -24,7 +24,7 @@ My areas of focus include zero-knowledge proofs, smart contract security, perfor
 
 【Scientific Reports】       [Deep learning-based solution for smart contract vulnerabilities detection](https://www.nature.com/articles/s41598-023-47219-0)
 
-【Ethereum Search】          [The Application of ZK-SNARKs in Solidity - Privacy Transformation, Computational Optimization, and MEV Resistance](https://ethresear.ch/t/the-application-of-zk-snarks-in-solidity-privacy-transformation-computational-optimization-and-mev-resistance/17017)
+【Ethereum Research】        [The Application of ZK-SNARKs in Solidity - Privacy Transformation, Computational Optimization, and MEV Resistance](https://ethresear.ch/t/the-application-of-zk-snarks-in-solidity-privacy-transformation-computational-optimization-and-mev-resistance/17017)
 
 【arXiv】                    [Smart Contract Migration: Security Analysis and Recommendations from Ethereum to Arbitrum](https://arxiv.org/pdf/2307.14773.pdf)
 
