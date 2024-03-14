@@ -20,8 +20,6 @@ My areas of focus include zero-knowledge proofs, smart contract security, perfor
 
 【Ethereum Research】        [Completely Recursive SNARK Circuit - The Savior of “Play to Earn”](https://ethresear.ch/t/completely-recursive-snark-circuit-the-savior-of-play-to-earn/18439)
 
-【arXiv】                    [Evaluation of ChatGPT's Smart Contract Auditing Capabilities Based on Chain of Thought](https://arxiv.org/pdf/2402.12023.pdf)
-
 【Scientific Reports】       [Deep learning-based solution for smart contract vulnerabilities detection](https://www.nature.com/articles/s41598-023-47219-0)
 
 【Ethereum Research】        [The Application of ZK-SNARKs in Solidity - Privacy Transformation, Computational Optimization, and MEV Resistance](https://ethresear.ch/t/the-application-of-zk-snarks-in-solidity-privacy-transformation-computational-optimization-and-mev-resistance/17017)
@@ -37,6 +35,11 @@ My areas of focus include zero-knowledge proofs, smart contract security, perfor
 
 [ZK Bug Tracker](https://github.com/0xPARC/zk-bug-tracker)    |      [Account abstraction coding security library](https://github.com/Mirror-Tang/Account-abstraction-coding-security-library)  
 
+### Works by students under my guidance
+
+【arXiv】                    [Evaluation of ChatGPT's Smart Contract Auditing Capabilities Based on Chain of Thought](https://arxiv.org/pdf/2402.12023.pdf) Yuying Du  | UC Berkeley
+
+【EITCE 2023】               [STFN: Spatio-Temporal Fusion Network to Detect Ethereum Phishing Scams](#) Yufeng Xu  | UC Berkeley
 
 ### 📧 Contact
 
