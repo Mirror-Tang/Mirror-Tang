@@ -10,6 +10,8 @@ My areas of focus include zero-knowledge proofs, smart contract security, perfor
 
 ### ✨Research
 
+【Ethereum Research】        [How AI Revolutionizes Ethereum, Another View on “AI+Blockchain”](https://ethresear.ch/t/how-ai-revolutionizes-ethereum-another-view-on-ai-blockchain/19010)
+
 【Ethereum Research】        [Promoting Ethereum Research to facilitate interdisciplinary collaboration and academic user engagement](https://ethresear.ch/t/promoting-ethereum-research-to-facilitate-interdisciplinary-collaboration-and-academic-user-engagement/18918)
 
 【Salus Blog】               [Important Security Checks Before Cancun Upgrade](https://salusec.io/blog/important-security-checks-before-cancun-upgrade)
