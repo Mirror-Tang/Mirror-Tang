@@ -10,7 +10,7 @@ My areas of focus include zero-knowledge proofs, smart contract security, perfor
 
 ### ✨Research
 
-【ACM Conference】               [EIP Security Analysis: Application Program Standards, Attack Events, and Security Vulnerabilities](https://dl.acm.org/doi/10.1145/3650400.3650499)
+【ACM Conference】               [EIP Security Analysis: Application Program Standards, Attack Events, and Security Vulnerabilities](https://dl.acm.org/doi/pdf/10.1145/3650400.3650609)
 
 【Cryptology ePrint Archive】        [Zero-Knowledge Proof Vulnerability Analysis and Security Auditing](https://eprint.iacr.org/2024/514)
 
