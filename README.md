@@ -10,6 +10,8 @@ My areas of focus include zero-knowledge proofs, smart contract security, perfor
 
 ### ✨Research
 
+【ACM Conference】               [EIP Security Analysis: Application Program Standards, Attack Events, and Security Vulnerabilities](https://dl.acm.org/doi/10.1145/3650400.3650499)
+
 【Cryptology ePrint Archive】        [Zero-Knowledge Proof Vulnerability Analysis and Security Auditing](https://eprint.iacr.org/2024/514)
 
 【Ethereum Research】        [How AI Revolutionizes Ethereum, Another View on “AI+Blockchain”](https://ethresear.ch/t/how-ai-revolutionizes-ethereum-another-view-on-ai-blockchain/19010)
@@ -43,7 +45,7 @@ My areas of focus include zero-knowledge proofs, smart contract security, perfor
 
 【arXiv】                    [Evaluation of ChatGPT's Smart Contract Auditing Capabilities Based on Chain of Thought](https://arxiv.org/pdf/2402.12023.pdf) Yuying Du  | UC Berkeley
 
-【EITCE 2023】               [STFN: Spatio-Temporal Fusion Network to Detect Ethereum Phishing Scams](#) Yufeng Xu  | UC Berkeley
+【ACM Conference】               [STFN: Spatio-Temporal Fusion Network to Detect Ethereum Phishing Scams](https://dl.acm.org/doi/10.1145/3650400.3650499) Yufeng Xu  | UC Berkeley
 
 ### 📧 Contact
 
