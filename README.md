@@ -48,7 +48,7 @@ I'm a dedicated Ethereum research scientist focused on studying blockchain engin
 
 ###💴investment
 
-Babylon Choise EthStorage Harvest Lifeform  Ora  Talentre Ultiverse SpaceID GoPlus Salus Seismic Solv  StarSharks  StructureFinance
+Babylon Choise EthStorage Harvest Lifeform  Ora Partisia Polyhedra Talentre Ultiverse Relayz SpaceID GoPlus Salus Seismic Solv  StarSharks  StructureFinance
 
 ### 📧 Contact
 
