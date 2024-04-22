@@ -1,10 +1,10 @@
 [![ethereum](/ethereum.jpg "ethereum")](#)
-# lights of different colors can illuminate the darkness.
+# I'm a dedicated Ethereum research scientist focused on studying blockchain engineering and social science aspects related to Ethereum. Based on this, I founded [Salus](https://salusec.io/). Currently, earning my PhD degree at [UBA](http://www.derecho.uba.ar/).  Prev- [MIT](https://micromasters.mit.edu/learner/MirrorT ) | [BJTU](https://www.bjtu.edu.cn/)
 
 
 ### 🐳About Me 
 
-I'm a dedicated Ethereum research scientist focused on studying blockchain engineering and social science aspects related to Ethereum. Based on this, I founded [Salus](https://salusec.io/). Currently, earning my PhD degree at [UBA](http://www.derecho.uba.ar/).  Prev- [MIT](https://micromasters.mit.edu/learner/MirrorT ) | [Stanford](https://alumnidirectory.stanford.edu/?enableQuerySyntax=true&q=mirror) | [BJTU](https://www.bjtu.edu.cn/)
+I'm a dedicated Ethereum research scientist focused on studying blockchain engineering and social science aspects related to Ethereum. Based on this, I founded [Salus](https://salusec.io/). Currently, earning my PhD degree at [UBA](http://www.derecho.uba.ar/).  Prev- [MIT](https://micromasters.mit.edu/learner/MirrorT ) | [BJTU](https://www.bjtu.edu.cn/)
 
 
 ### ✨Research
