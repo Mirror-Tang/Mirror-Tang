@@ -4,7 +4,7 @@
 
 ### 🐳About Me 
 
-I'm a dedicated Ethereum research scientist focused on studying blockchain engineering and social science aspects related to Ethereum. Based on this, I founded [Salus](https://salusec.io/), where we collaborate with multiple teams from the Ethereum Foundation to contribute to the security of the Ethereum ecosystem. Currently, earning my PhD degree at [UBA](http://www.derecho.uba.ar/).  Prev- [MIT](https://micromasters.mit.edu/learner/MirrorT ) | [Stanford](https://alumnidirectory.stanford.edu/?enableQuerySyntax=true&q=mirror) | [BJTU](https://www.bjtu.edu.cn/)
+I'm a dedicated Ethereum research scientist focused on studying blockchain engineering and social science aspects related to Ethereum. Based on this, I founded [Salus](https://salusec.io/). Currently, earning my PhD degree at [UBA](http://www.derecho.uba.ar/).  Prev- [MIT](https://micromasters.mit.edu/learner/MirrorT ) | [Stanford](https://alumnidirectory.stanford.edu/?enableQuerySyntax=true&q=mirror) | [BJTU](https://www.bjtu.edu.cn/)
 
 My areas of focus include zero-knowledge proofs, smart contract security, performance of distributed systems, and data and economic analysis of fee markets. I am interested in understanding the intricate interactions between social and technical aspects in collective decision-making within the blockchain ecosystem. Furthermore, I strive to achieve a harmonious balance between performance, security, and technological freedom in public blockchains. Interdisciplinary security research has numerous applications in Ethereum, helping to prevent data validation errors, service interruptions or rollbacks, and fund theft. Additionally, they can enhance the sustainability of economic models to address significant challenges.
 
