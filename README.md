@@ -1,12 +1,12 @@
 [![ethereum](/ethereum.jpg "ethereum")](#)
 
 
-### 🐳About Me 
+### 🐳 About Me 
 
-I'm a dedicated Ethereum research scientist focused on studying blockchain engineering and social science aspects related to Ethereum. Based on this, I founded [Salus](https://salusec.io/). Currently, earning my PhD degree at [UBA](http://www.derecho.uba.ar/).  Prev- [MIT](https://micromasters.mit.edu/learner/MirrorT ) | [BJTU](https://www.bjtu.edu.cn/)
+I'm a dedicated Ethereum research scientist focused on studying blockchain engineering and social science aspects related to Ethereum. Based on this, I founded [Salus](https://salusec.io/).Earning my PhD degree at [UBA](http://www.derecho.uba.ar/).  Prev- [MIT](https://micromasters.mit.edu/learner/MirrorT ) | [BJTU](https://www.bjtu.edu.cn/)
 
 
-### ✨Research
+### ✨ Research
 
 【ACM Conference】               [EIP Security Analysis: Application Program Standards, Attack Events, and Security Vulnerabilities](https://dl.acm.org/doi/pdf/10.1145/3650400.3650609)
 
@@ -47,7 +47,7 @@ I'm a dedicated Ethereum research scientist focused on studying blockchain engin
 
 ### 💴 Investment
 
-Babylon Choise EthStorage Harvest Lifeform  Ora Partisia Polyhedra Talentre Ultiverse Relayz SpaceID GoPlus Salus Seismic Solv  StarSharks  StructureFinance
+Babylon | Choise | EthStorage | Harvest | Lifeform | Ora | Partisia | Polyhedra | Talentre | Ultiverse | Relayz | SpaceID | GoPlus | Salus | Seismic | Solv | StarSharks | StructureFinance
 
 ### 📧 Contact
 
