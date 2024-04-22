@@ -46,6 +46,10 @@ I'm a dedicated Ethereum research scientist focused on studying blockchain engin
 
 【ACM Conference】               [STFN: Spatio-Temporal Fusion Network to Detect Ethereum Phishing Scams](https://dl.acm.org/doi/10.1145/3650400.3650499) Yufeng Xu  | UC Berkeley
 
+###💴investment
+
+Babylon Choise EthStorage Harvest Lifeform  Ora  Talentre Ultiverse SpaceID GoPlus Salus Seismic Solv  StarSharks  StructureFinance
+
 ### 📧 Contact
 
 xueyantang@acm.org
