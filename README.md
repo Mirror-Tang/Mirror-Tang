@@ -1,5 +1,4 @@
 [![ethereum](/ethereum.jpg "ethereum")](#)
-# I'm a dedicated Ethereum research scientist focused on studying blockchain engineering and social science aspects related to Ethereum. Based on this, I founded [Salus](https://salusec.io/). Currently, earning my PhD degree at [UBA](http://www.derecho.uba.ar/).  Prev- [MIT](https://micromasters.mit.edu/learner/MirrorT ) | [BJTU](https://www.bjtu.edu.cn/)
 
 
 ### 🐳About Me 
@@ -46,7 +45,7 @@ I'm a dedicated Ethereum research scientist focused on studying blockchain engin
 
 【ACM Conference】               [STFN: Spatio-Temporal Fusion Network to Detect Ethereum Phishing Scams](https://dl.acm.org/doi/10.1145/3650400.3650499) Yufeng Xu  | UC Berkeley
 
-### 💴investment
+### 💴 Investment
 
 Babylon Choise EthStorage Harvest Lifeform  Ora Partisia Polyhedra Talentre Ultiverse Relayz SpaceID GoPlus Salus Seismic Solv  StarSharks  StructureFinance
 
