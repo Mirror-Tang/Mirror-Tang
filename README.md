@@ -1,12 +1,25 @@
 [![ethereum](/ethereum.jpg "ethereum")](#)
+# Ethereum is changing the world.
 
+## 🐳 About Me 
 
-### 🐳 About Me 
+I'm a blockchain scientist dedicated to researching complex engineering implementations and security issues in blockchain. My areas of focus include the security of smart contracts and zero-knowledge proof circuits, the performance of distributed systems, and the data and economic analysis of fee markets. I am particularly interested in understanding the intricate interactions between social and technical aspects within collective decision-making in distributed ecosystems. Additionally, I strive to achieve a harmonious balance between performance, security, and technical freedom in distributed ecosystems. Secure and data-driven decisions have many applications in distributed ecosystems; they can help prevent data verification errors, service disruptions or rollbacks, and theft of funds. Moreover, they can enhance the sustainability of economic models to address significant challenges. Based on this, I founded [Salus](https://salusec.io/).Earning my PhD degree at [UBA](http://www.derecho.uba.ar/).  Prev- [MIT](https://micromasters.mit.edu/learner/MirrorT ) | [BJTU](https://www.bjtu.edu.cn/)
+## 😸 Teach
+ [![SJTU](/logo.png "SJTU")](#)
 
-I'm a dedicated Ethereum research scientist focused on studying blockchain engineering and social science aspects related to Ethereum. Based on this, I founded [Salus](https://salusec.io/).Earning my PhD degree at [UBA](http://www.derecho.uba.ar/).  Prev- [MIT](https://micromasters.mit.edu/learner/MirrorT ) | [BJTU](https://www.bjtu.edu.cn/)
+I have been approved by the Academic Committee of Shanghai Jiao Tong University to serve as a visiting professor and master's supervisor at the [Suzhou Institute of Artificial Intelligence](https://szai.sjtu.edu.cn) of Shanghai Jiao Tong University starting from July 2024.
 
+#### My research areas include:
 
-### ✨ Research
+Deep learning for smart contract code detection
+
+Zero-knowledge proof circuit security
+
+GPU-based privacy computing networks
+
+Welcome you and the aspiring young individuals around you to apply enthusiastically!
+
+## ✨ Research
 
 【ACM Conference】               [EIP Security Analysis: Application Program Standards, Attack Events, and Security Vulnerabilities](https://dl.acm.org/doi/pdf/10.1145/3650400.3650609)
 
@@ -35,7 +48,7 @@ I'm a dedicated Ethereum research scientist focused on studying blockchain engin
 【Science Advances】         [Limitations of a study on the network of developers and correlated returns of cryptocurrencies](https://science.org/doi/10.1126/sciadv.abd2204)
 
 
-### ✅ Public Work                                             
+## ✅ Public Work                                             
 
 [ZK Bug Tracker](https://github.com/0xPARC/zk-bug-tracker)    |      [Account abstraction coding security library](https://github.com/Mirror-Tang/Account-abstraction-coding-security-library)  
 
@@ -45,11 +58,11 @@ I'm a dedicated Ethereum research scientist focused on studying blockchain engin
 
 【ACM Conference】               [STFN: Spatio-Temporal Fusion Network to Detect Ethereum Phishing Scams](https://dl.acm.org/doi/10.1145/3650400.3650499) Yufeng Xu  | UC Berkeley
 
-### 💴 Investment
+## 💴 Investment
 
 Babylon | Choise | EthStorage | Harvest | Lifeform | Ora | Partisia | Polyhedra | Talentre | Ultiverse | Relayz | SpaceID | GoPlus | Salus | Seismic | Solv | StarSharks | StructureFinance
 
-### 📧 Contact
+## 📧 Contact
 
 xueyantang@acm.org
 
