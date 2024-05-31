@@ -50,7 +50,7 @@ Welcome you and the aspiring young individuals around you to apply enthusiastica
 
 ## ✅ Public Work                                             
 
-[ZK Bug Tracker](https://github.com/0xPARC/zk-bug-tracker)    |      [Account abstraction coding security library](https://github.com/Mirror-Tang/Account-abstraction-coding-security-library)  
+[ZK Bug Tracker](https://github.com/0xPARC/zk-bug-tracker)    |      [AA coding security library](https://github.com/Mirror-Tang/Account-abstraction-coding-security-library)   |      [zkLogin](https://github.com/xarlabs/zkLogin/)
 
 ### Works by students under my guidance
 
