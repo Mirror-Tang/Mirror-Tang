@@ -7,7 +7,7 @@ I'm a blockchain scientist dedicated to researching complex engineering implemen
 ## 😸 Teach
  [![SJTU](/logo.png "SJTU")](#)
 
-I have been approved by the Academic Committee of Shanghai Jiao Tong University to serve as a Distinguished Professor and master's supervisor at the [Suzhou Institute of Artificial Intelligence](https://szai.sjtu.edu.cn) of Shanghai Jiao Tong University starting from July 2024.
+I have been approved by the Academic Committee of Shanghai Jiao Tong University to serve as a Distinguished Professor at the [Suzhou Institute of Artificial Intelligence](https://szai.sjtu.edu.cn) of Shanghai Jiao Tong University starting from July 2024.
 
 #### My research areas include:
 
