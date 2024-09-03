@@ -60,7 +60,7 @@ Welcome you and the aspiring young individuals around you to apply enthusiastica
 
 ## 💴 Investment
 
-Babylon | BounceBit | Choise | EthStorage | Harvest | Lifeform | NAVI | Ora | Partisia | Polyhedra | Talentre | Ultiverse | Relayz | SpaceID | GoPlus | Salus | Seismic | Solv | StarSharks | StructureFinance
+Babylon | BounceBit | Choise | EthStorage | Harvest | Lifeform | NAVI | Ora | Partisia | Polyhedra | Talentre | Ultiverse | Relayz | SpaceID | GoPlus | Sahara | Salus | Seismic | Solv | StarSharks | StructureFinance
 
 ## 📧 Contact
 
